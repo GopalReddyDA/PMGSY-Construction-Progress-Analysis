@@ -64,24 +64,11 @@ Actual Cost - Sanctioned Cost
 Expenditure / Sanctioned Cost × 100
 ```
 
-## SQL Concepts
-
-* SELECT
-* WHERE
-* TOP
-* ORDER BY
-* SUM
-* Aggregate Functions
-* Calculated Columns
-* ROUND
-* Percentage Calculations
-
-
 ## Key Insights
-Most states have completed a high percentage of their sanctioned roads.
-Some states still have a large number of roads remaining, which shows where more work is needed.
-Bihar has the highest expenditure among the states.
-Some states have actual costs higher than the sanctioned costs, indicating cost overruns.
-A high amount of expenditure does not always mean high construction completion.
-Comparing completion percentage and expenditure together helps identify states that may need further investigation.
-The analysis helps understand construction progress, pending work, spending, and cost performance using SQL Server.
+* Most states have completed a high percentage of their sanctioned roads.
+* Some states still have a large number of roads remaining, which shows where more work is needed.
+* Bihar has the highest expenditure among the states.
+* Some states have actual costs higher than the sanctioned costs, indicating cost overruns.
+* A high amount of expenditure does not always mean high construction completion.
+* Comparing completion percentage and expenditure together helps identify states that may need further investigation.
+* The analysis helps understand construction progress, pending work, spending, and cost performance using SQL Server.
