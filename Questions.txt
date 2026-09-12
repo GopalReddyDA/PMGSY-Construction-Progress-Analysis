@@ -1,0 +1,19 @@
+Q1. Which state has the highest number of NS_Roads (sanctioned roads)?
+
+Q2. What is the total sanctioned road length?
+
+Q3. Which states have completed more than 1,000 roads?
+
+Q4. What is the road completion percentage for each state?
+
+Q5. Which state has the highest completion percentage?
+
+Q6. Which states have cost overruns?
+
+Q7. What is the expenditure utilization percentage for each state?
+
+Q8. Which states have the highest number of remaining roads?
+
+Q9. Find the top 5 states by expenditure.
+
+Q10. Which states have low completion but high expenditure?
