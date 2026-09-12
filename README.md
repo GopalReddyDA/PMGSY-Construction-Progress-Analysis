@@ -1,5 +1,3 @@
-# PMGSY-Construction-Progress-Analysis
-
 # Construction Progress Analysis using SQL Server
 
 ## Project Overview
